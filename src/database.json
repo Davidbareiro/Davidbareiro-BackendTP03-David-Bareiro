@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Citroen C4 Lounge",
+        "description": "Origen frances caja automatica",
+        "price": 200,
+        "thumbnail": "https://www.autocosmos.com.ar/auto/usado/citroen/c4-lounge",
+        "code": "abc123",
+        "stock": 25,
+        "id": 1
+    },
+    {
+        "title": "Tracker Chevrolet",
+        "description": "4x4 origen mexicano",
+        "price": 200,
+        "thumbnail": "https://chevrolet.com.gt/vehiculo/chevrolet-tracker/",
+        "code": "bc123",
+        "stock": 25,
+        "id": 2
+    },
+    {
+        "title": "Sandalias",
+        "description": "Sandalias de plataforma, color Negro, talle 36",
+        "price": 200,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_645391-MLA43793189919_102020-O.jpg",
+        "code": "247",
+        "stock": 25,
+        "id": 3
+    },
+    { "title": "pRenault 12", "description": "Coche nacional", "price": 200, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "123", "stock": 25, "id": 4 },
+    { "title": "David", "description": "Bareiro", "price": 200, "thumbnail": "https://google.com.ar", "code": "23", "stock": 25, "id": 5 },
+    { "title": "Renault 21", "description": "Auto Viejo", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "301", "stock": 25, "id": 6 },
+
+    { "title": "Renault 9", "description": "Auto Viejo", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "301", "stock": 25, "id": 7 },
+    { "title": "Peugeot 308", "description": "Gasta mucho", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "302", "stock": 25, "id": 8 },
+    { "title": "Peugeot 207", "description": "Repuestos caros", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "303", "stock": 25, "id": 9 },
+    { "title": "Mercedez 1114", "description": "Amo de las rutas", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "304", "stock": 25, "id": 10 },
+    { "title": "VW Golf", "description": "Uber", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "305", "stock": 25, "id": 11 },
+    { "title": "Siena", "description": "Remis", "price": 300, "thumbnail": "https://es.wikipedia.org/wiki/Renault_12", "code": "306", "stock": 25, "id": 12 }
+     
+]
